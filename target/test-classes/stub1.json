@@ -1,0 +1,13 @@
+{
+	"request" : {
+		"method":"GET",
+		"url":"/helloWorld"
+	},
+	"response" : {
+	"status":"200",
+	"body":"Welcome to mocking of Hello World",
+	"headers":{
+		"Content-Type":"text/plain"
+		}
+	}
+}
